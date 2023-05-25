@@ -26,4 +26,5 @@ getways:function (){
 }
 }
 employee.getways();
+console.log(employee);
 }
